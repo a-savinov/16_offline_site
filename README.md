@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+It is simple site template prepared for local develop
 
 # Project Goals
 
